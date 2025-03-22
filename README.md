@@ -1,4 +1,4 @@
-## Heart_Disease_Risk_Prediction
+# Heart Disease Detection
 
 ## Project Overview
 This project aims to detect heart disease using both a machine learning model and a rule-based expert system. It includes data analysis, model training, and a Streamlit-based UI for user interaction.
